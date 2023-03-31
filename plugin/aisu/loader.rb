@@ -1,6 +1,6 @@
 require "aisu/start"
 
-module WWBIM
+module AIShell
     module Aisu
 
         unless file_loaded?(__FILE__)

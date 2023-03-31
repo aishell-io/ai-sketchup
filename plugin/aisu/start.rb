@@ -1,6 +1,6 @@
 
 
-module WWBIM
+module AIShell
     module Aisu
 
         class Aidialog

@@ -1,7 +1,7 @@
 require "sketchup.rb"
 require "extensions.rb"
 
-module WWBIM
+module AIShell
     module Aisu
 
         Loader = File.join('aisu', 'loader')
